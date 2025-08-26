@@ -1,0 +1,200 @@
+{"question": "How can UE power saving be enabled by relaxing measurements for RLM/BFD? [3GPP Release 17]", "answer": "By reducing UE power consumption during idle/inactive mode"}
+{"question": "What message does the eNB send to perform redirection to another E-UTRAN frequency? [3GPP Release 14]", "answer": "UE CONTEXT RELEASE REQUEST message"}
+{"question": "During an RD response burst, what type of frames shall an RD responder transmit? [IEEE 802.11]", "answer": "Frames with the same AC as the last frame received from the RD initiator"}
+{"question": "What is the purpose of suitable APIs for managing third-party owned applications in the operator's Service Hosting Environment? [3GPP Release 17]", "answer": "To manage the trusted third-party owned application(s) in the operator's Service Hosting Environment"}
+{"question": "What triggers Edge Relocation in the network? [3GPP Release 18]", "answer": "Both AF request and UE mobility"}
+{"question": "Which type of Ethernet is also known as Fast Ethernet? [IEEE 802.3]", "answer": "100Base-T"}
+{"question": "Which split option locates (de-)modulation, channel estimation, and equalization in the O-DU?", "answer": "7-2x"}
+{"question": "What is the purpose of the IMS Multimedia Telephony service? [3GPP Release 17]", "answer": "To provide multimedia conversational communications between two or more users"}
+{"question": "What is the symbol duration determined by a UE for PDCCH monitoring? [3GPP Release 17]", "answer": "The smallest SCS configuration provided in scs-SpecificCarrierList"}
+{"question": "What is the composition of low and high loss dependent on? [3GPP Release 18]", "answer": "All of the above"}
+{"question": "When can Path update signaling related to Dual Connectivity and UPF re-allocation occur? [3GPP Release 18]", "answer": "At the same time"}
+{"question": "What is the disadvantage of Toom-Cook method compared to Karatsuba method?", "answer": "Higher space complexity"}
+{"question": "In case of 15 kHz sub-carrier spacing, how many cyclic-prefix lengths are there? [3GPP Release 17]", "answer": "2"}
+{"question": "What benefit does packet duplication provide in the control plane?", "answer": "RRC diversity for important signaling messages"}
+{"question": "Which physical layer processing step includes LDPC coding? [3GPP Release 17]", "answer": "Physical-layer hybrid-ARQ processing"}
+{"question": "What is the purpose of the fixed fields and information elements in management frames? [IEEE 802.11]", "answer": "To transmit frame-specific information"}
+{"question": "What are some of the key performance indicators used to characterize the quality of positioning information for vehicle-to-everything scenarios?", "answer": "Positioning accuracy, latency, update rate, and reliability."}
+{"question": "What functionality does Signalling Based Activation provide? [3GPP Release 17]", "answer": "Request for end user service performance information for one specific UE"}
+{"question": "What is the definition of OTA frequency error? [3GPP Release 18]", "answer": "The measure of the difference between the actual SAN transmit frequency and the assigned frequency."}
+{"question": "What does TSC stand for in the context of integration with IEEE TSN? [3GPP Release 16]", "answer": "Time-Sensitive Communication"}
+{"question": "How can the transformation from a LCS to a GCS be expressed? [3GPP Release 18]", "answer": "Composite rotation matrix"}
+{"question": "What needs to be taken into account upon deactivation of packet duplication in DC (dual connectivity)?", "answer": "Split threshold"}
+{"question": "What is the purpose of the Remote Interference Management (RIM) function? [3GPP Release 17]", "answer": "To manage cross-link interference in non-split gNB architecture."}
+{"question": "What kind of traffic should a Shared GERAN or UTRAN be able to differentiate? [3GPP Release 18]", "answer": "Both signalling and user traffic"}
+{"question": "What is DBPSK? [IEEE 802.11]", "answer": "A form of differential phase shift keying (DPSK)"}
+{"question": "What does the second frame in a shared-key authentication exchange serve as? [IEEE 802.11]", "answer": "A challenge"}
+{"question": "What are the two types of GN-NSIs?", "answer": "Standard and Non-standard"}
+{"question": "What is the MEC-in-NFV architecture?", "answer": "An architecture where MEC applications and MEC platform are managed and orchestrated by MEC and NFV entities in coordination"}
+{"question": "What is the purpose of using chipping sequences in direct-sequence modulation? [IEEE 802.11]", "answer": "To spread the signal's power over a wider bandwidth"}
+{"question": "What is the value of WinHeadB parameter initialized to in the DMG block ack architecture? [IEEE 802.11]", "answer": "The highest SN received in the current reception range"}
+{"question": "Which of the following is not a feature that can be calibrated? [3GPP Release 18]", "answer": "Fast fading modeling"}
+{"question": "What does NSI stand for?", "answer": "Network Service Instance"}
+{"question": "In which phase of a network's life cycle can the Digital Twin assist in design and deployment?", "answer": "Design and deployment phase"}
+{"question": "What types of other media are supported during an emergency call when the IM CN subsystem is used? [3GPP Release 18]", "answer": "All of the above"}
+{"question": "What connects stations to the network in thick Ethernet? [IEEE 802.3]", "answer": "Transceivers"}
+{"question": "What does NWDAF provide with Network Performance Analytics? [3GPP Release 18]", "answer": "Statistics or predictions on gNB status information"}
+{"question": "What is the scope of VNF configuration? [ETSI NFV Release 5]", "answer": "Configuration of both software and virtual resources"}
+{"question": "In which 3GPP releases are high accuracy and positioning integrity enhancements being addressed?", "answer": "Rel-17 and Rel-18"}
+{"question": "What is the main difference between the Wyner's wiretap coding scheme and the coding scheme used in FB-CSs?", "answer": "Wyner's scheme uses codeword rate and rate redundancy, while the FB-CSs scheme uses coding rate directly"}
+{"question": "What are the short-term reactions to be avoided at frequencies between 0 Hz and 5 MHz? [IEEE C95.1]", "answer": "Aversive or painful stimulation"}
+{"question": "Which identity is used for semi-persistent CSI reporting on PUSCH? [3GPP Release 17]", "answer": "SP-CSI-RNTI"}
+{"question": "Which IEEE standard introduced the 10Base-T technology? [IEEE 802.3]", "answer": "IEEE802.3i"}
+{"question": "What is the purpose of the SSID in scanning? [IEEE 802.11]", "answer": "To identify specific networks to join"}
+{"question": "What is the safety limit specified by the U.S. National Electrical Safety Code for short circuit current from objects within the electric field of a high-voltage transmission line? [IEEE C95.1]", "answer": "5 mA"}
+{"question": "What are the four levels of decision elements in the ETSI (European Telecommunications Standards Institute) GANA (Generic Autonomic Networking Architecture) architecture?", "answer": "Network Level, Node Level, Function Level, Protocol Level"}
+{"question": "What is the requirement for voice call continuity during emergency calls? [3GPP Release 18]", "answer": "Voice call continuity for emergency calls is applicable to both dual radio and single radio UEs"}
+{"question": "What should the UE do when receiving an RRC message on the BCCH, CCCH, PCCH, MCCH or a PC5 RRC message on SBCCH for which the abstract syntax is invalid? [3GPP Release 17]", "answer": "Ignore the message"}
+{"question": "When does a mobile station enter the GMM-DEREGISTERED state? [3GPP Release 18]", "answer": "When the MS is switched on"}
+{"question": "What is the maximum allowable deviation from the manufacturer claimed EIRP level for a specific beam peak direction? [3GPP Release 18]", "answer": "\u00b12.2 dB"}
+{"question": "Which document specifies the MUSIM-specific rejection cause for EPS? [3GPP Release 17]", "answer": "TS 29.274"}
+{"question": "What is a Multi-USIM UE? [3GPP Release 17]", "answer": "A UE that can use multiple USIMs and maintain a separate registration state for each one."}
+{"question": "What happens if the active UICC is removed from the mobile terminal during a call? [3GPP Release 18]", "answer": "The call is terminated immediately"}
+{"question": "Which network function is responsible for authentication and authorization? [3GPP Release 18]", "answer": "AUSF"}
+{"question": "What is the purpose of shared-key authentication in 802.11? [IEEE 802.11]", "answer": "To challenge a mobile station and prove its configuration with a WEP key"}
+{"question": "Which series of documents in 3GPP documentation focus on radio technology beyond LTE?", "answer": "38.xxx"}
+{"question": "What is a Hybrid CPE?", "answer": "A CPE that is attached to both an xDSL and a 4G network."}
+{"question": "What are the key functionalities of MDT enhancement? [3GPP Release 17]", "answer": "To enhance network data analytics services"}
+{"question": "What does a Digital Twin represent?", "answer": "An actual asset"}
+{"question": "How is the energy detection threshold adapted for channel access? [3GPP Release 17]", "answer": "It is set to the maximum EIRP of the intended transmission(s)."}
+{"question": "What is the role of TLS/SSL in client/server applications? [TCP/IP]", "answer": "Providing privacy and integrity for data transfer"}
+{"question": "What is the architecture component introduced to support wireline access network? [3GPP Release 16]", "answer": "Wireline Access Gateway Function (W-AGF)"}
+{"question": "How is the indication of reduced capabilities provided during the random-access procedure?", "answer": "In Message 3 (or Message A)"}
+{"question": "Which additional positioning technique is supported in Rel-16 LPP for GNSS SSR? [3GPP Release 16]", "answer": "PPP and RTK"}
+{"question": "Why do AV production applications call for uncompressed or slightly compressed data? [3GPP Release 17]", "answer": "To minimize the probability of errors in the transmitted data."}
+{"question": "What is the purpose of using a 20 MHz operating channel in 802.11a? [IEEE 802.11]", "answer": "To reduce the cost and complexity"}
+{"question": "What is the purpose of the platooning use case in NR-V2X?", "answer": "To enable vehicles to follow each other closely in a chain"}
+{"question": "What is the purpose of the eNA (Enablers for Network Automation for 5G) feature? [3GPP Release 16]", "answer": "To improve the NWDAF data collection and output"}
+{"question": "What does HTTPS stand for? [TCP/IP]", "answer": "Hypertext Transfer Protocol Secure"}
+{"question": "What is a beam refinement transaction? [IEEE 802.11]", "answer": "A set of BRP frames consisting of both transmit and receive beam refinement requests and responses"}
+{"question": "What does the originator do if each A-MSDU is either received by all group members or the lifetime limit is reached? [IEEE 802.11]", "answer": "Retransmits the A-MSDU until the lifetime limit is reached"}
+{"question": "Which type of C2 connectivity is used by the UTM (UAS Traffic Management) to monitor the UAV (unmanned aerial vehicle) flight status and deliver flight path updates?", "answer": "UTM-navigated C2 communications"}
+{"question": "What is the purpose of the padding bits in an Ethernet frame data field? [IEEE 802.3]", "answer": "To reach the minimum required length of 46 bytes"}
+{"question": "What modifications did MulteFire introduce in the radio air interface compared to LTE?", "answer": "Changes in the structure of the DRS"}
+{"question": "Which entity in the O-RAN architecture provides a platform to deploy optimization applications?", "answer": "Non-RT RIC"}
+{"question": "What types of data can be processed by the Management Data Analytics (MDA)? [3GPP Release 17]", "answer": "All of the above"}
+{"question": "What procedure can be initiated by the network or the UE (User Equipment) to release an ongoing PDU (Protocol Data Unit) session?", "answer": "PDU Session Release"}
+{"question": "Which architectural framework uses microservices to decompose the SDN (software defined networking) controller and implement it as a set of distributed components?", "answer": "Microservices-based SDN Controller"}
+{"question": "What is the maximum length of the IP header when using the options field? [TCP/IP]", "answer": "60 bytes"}
+{"question": "Which TS specification defines the Proximity-based Services (ProSe) architecture? [3GPP Release 14]", "answer": "TS 23.303"}
+{"question": "How is a MAC address table updated in a bridge or switch? [IEEE 802.3]", "answer": "By listening to network traffic and discovering MAC addresses"}
+{"question": "Which models are constructed for LOS channel profiles? [3GPP Release 18]", "answer": "CDL-D and CDL-E"}
+{"question": "What is the purpose of the Support of EAP Re-authentication Protocol for WLAN Interworking feature? [3GPP Release 14]", "answer": "Enhancing security for WLAN access"}
+{"question": "Which interface is used for inter-eNB control plane signaling in Dual Connectivity? [3GPP Release 17]", "answer": "X2 interface"}
+{"question": "What is the receiver in an infrastructure network when frames are bound for a destination on the distribution system? [IEEE 802.11]", "answer": "The access point"}
+{"question": "What is the purpose of the feature 'Multi-server bearer coordination' for MBMS usage in MC services? [3GPP Release 15]", "answer": "Allowing a single MC service server to manage all MBMS media transmission"}
+{"question": "What is the role of the Core Network Bearer Service? [3GPP Release 17]", "answer": "To connect the UMTS CN Edge Node with the CN Gateway"}
+{"question": "What is the recommended guard time for OFDM systems? [IEEE 802.11]", "answer": "800 ns"}
+{"question": "When using RTS/CTS as the protection mechanism, what should be done if a hidden STA resets its NAV and causes a collision? [IEEE 802.11]", "answer": "Use alternative protection mechanisms"}
+{"question": "What is the Work Item addressing handling of data services within the Mission Critical framework? [3GPP Release 14]", "answer": "MCImp-MCData"}
+{"question": "What standardized QCI values can be used for unicast delivery of V2X messages over LTE-Uu? [3GPP Release 14]", "answer": "QCI 3 and QCI 75"}
+{"question": "Which access control mechanism specifically applies to CSFB? [3GPP Release 18]", "answer": "Access Class Barring"}
+{"question": "What does the abbreviation WAS stand for?", "answer": "Wireless Access Systems"}
+{"question": "What is the quality of service degradation?", "answer": "The difference between the rate achieved by each link and its minimum rate requirement"}
+{"question": "Which CIoT features have been introduced in Rel-16? [3GPP Release 16]", "answer": "All of the above"}
+{"question": "What is the purpose of the network slice subnet management function (NSSMF)?", "answer": "To manage fault, configuration, accounting, performance, and security (FCAPS)"}
+{"question": "What protocol is IP multimedia session control based on? [3GPP Release 18]", "answer": "SIP"}
+{"question": "What factor restricts the accuracy of channel estimation in an IoT (Internet of things) system?", "answer": "The use of short packets"}
+{"question": "What type of data does NWDAF collect from AF? [3GPP Release 18]", "answer": "Service data"}
+{"question": "Can a UDP socket be in an established status? [TCP/IP]", "answer": "No, UDP sockets cannot be in an established status"}
+{"question": "Which layer of the TCP/IP model is responsible for communication on the local network between the host and the router? [TCP/IP]", "answer": "Network layer"}
+{"question": "How are physical resource blocks defined? [3GPP Release 17]", "answer": "consecutive subcarriers in the frequency domain"}
+{"question": "What is the concept behind a CF (Cell-free) mMIMO (massive multiple-input-multiple-output) network?", "answer": "The network consists of many APs serving UEs through distributed processing."}
+{"question": "What type of frequency hopping can improve positioning performance for RedCap UEs in FR2 InF-SH scenario? [3GPP Release 18]", "answer": "Rx hopping"}
+{"question": "What functions should the eMBMS service layer support for TV services? [3GPP Release 18]", "answer": "Accessible formats and regulatory mandates"}
+{"question": "What is the number of fundamental arithmetic multiplications performed using the classical schoolbook multiplication method when two N-digit numbers are multiplied?", "answer": "$N^2$"}
+{"question": "What is the purpose of the Control and User Plane Separation of EPC nodes work item? [3GPP Release 14]", "answer": "To separate the S/P-GW and the TDF functionality into user plane functions and control plane functions."}
+{"question": "What is the purpose of the use-case specific network slicing (US-NSI)?", "answer": "To support a specific use case of a vertical"}
+{"question": "Which protocol belongs to the application layer of the TCP/IP suite? [TCP/IP]", "answer": "HTTP protocol"}
+{"question": "What is the minimum length of the data field in an Ethernet frame? [IEEE 802.3]", "answer": "46 bytes"}
+{"question": "What does CBR stand for in the context of V2X communication? [3GPP Release 14]", "answer": "Channel Busy Ratio"}
+{"question": "What frequency band does Bluetooth use? [Bluetooth - Overview]", "answer": "2.4 GHz"}
+{"question": "Which security attacks can be launched by exploiting the handover signaling messages?", "answer": "Denial-of-Service, Session Hijacking, Malicious Mobile Node Flooding"}
+{"question": "Which communication pattern is suitable for event-driven actions? [3GPP Release 19]", "answer": "Deterministic aperiodic communication"}
+{"question": "Which part of the body is sometimes preferentially reported to experience perception when subjected to strong switched gradient fields of experimental MRI systems? [IEEE C95.1]", "answer": "Back"}
+{"question": "Which split option does the O-RAN use for the PHY (Physical layer) layer?", "answer": "7-2x"}
+{"question": "What is the purpose of an investigation PLMN scan for a multi-mode terminal? [3GPP Release 18]", "answer": "To search for a higher prioritized PLMN that does not offer CS voice service"}
+{"question": "What two functionalities were introduced in the enhancement of the Dedicated Core Networks selection mechanism? [3GPP Release 14]", "answer": "Reliance on UE-assisted DCN selection and load balancing between MMEs"}
+{"question": "How is the last symbol of the PDCCH triggering the CSI report(s) determined when the PDCCH reception includes two PDCCH candidates? [3GPP Release 17]", "answer": "The PDCCH candidate that ends later in time is used"}
+{"question": "What is the maximum relative velocity at which messages can be transferred between UEs supporting V2V applications? [3GPP Release 17]", "answer": "500 km/h"}
+{"question": "What determines the starting PRB index of the DL PRS resource? [3GPP Release 17]", "answer": "dl-PRS-StartPRB"}
+{"question": "Where is the Charging Trigger Function (CTF) located in the distributed CTF architecture for offline charging? [3GPP Release 18]", "answer": "UE"}
+{"question": "Which IEEE802 standard is responsible for Wireless LAN?", "answer": "IEEE802.11 Wireless LAN & Mesh"}
+{"question": "What message does the AMF send to the NG-RAN during mobility registration, AM policy modification, and handover procedures? [3GPP Release 18]", "answer": "UE Context Modification Request"}
+{"question": "What does the abbreviation (g)PTP stand for? [3GPP Release 18]", "answer": "Generic Precision Timing Protocol"}
+{"question": "What does the recipient of an RTS frame respond with? [IEEE 802.11]", "answer": "A CTS frame"}
+{"question": "What is the designated interface for V2V communications? [3GPP Release 14]", "answer": "PC5"}
+{"question": "What are the common aspects of coexistence between SBA NFV-MANO systems? [ETSI NFV Release 5]", "answer": "All of the above"}
+{"question": "What does the UE assume about the reception occasions of PSS, SSS, and PBCH? [3GPP Release 17]", "answer": "They are in consecutive symbols"}
+{"question": "When is DCP monitored by the UE? [3GPP Release 18]", "answer": "During active-time and before the on-duration"}
+{"question": "What is the purpose of the TYPE field in an Ethernet frame? [IEEE 802.3]", "answer": "To specify the higher-level protocol that uses the Ethernet frame"}
+{"question": "What additional information is reported to the NAS if the UE supports E-UTRA connected to 5GC? [3GPP Release 17]", "answer": "Associated CN type"}
+{"question": "What is the maximum number of hosts for the CIDR code /19? [TCP/IP]", "answer": "2048"}
+{"question": "What is the purpose of SMI (Structure of Management Information)? [TCP/IP]", "answer": "To specify the type of information maintained by network devices"}
+{"question": "What are the components of the O-RAN architecture?", "answer": "O-RAN Central Unit (O-CU), O-RAN Distributed Unit (O-DU), O-RAN Radio Unit (O-RU)"}
+{"question": "What does the PCF do in relation to monitoring data rate per Network Slice? [3GPP Release 17]", "answer": "Monitors the data rate per Network Slice and applies policy decisions"}
+{"question": "What is the purpose of PDU Session traffic analytics? [3GPP Release 18]", "answer": "To provide statistics on whether traffic of UEs via one or multiple PDU sessions is according to the information provided by the service consumer."}
+{"question": "What are the components of an Internet socket in TCP/IP? [TCP/IP]", "answer": "Protocol, local IP address, local protocol port number, remote IP address, remote protocol port number"}
+{"question": "Under what conditions will a UE provide a valid CSI report for the n-th triggered report? [3GPP Release 17]", "answer": "If the first uplink symbol to carry the corresponding CSI report(s) starts earlier than at symbol Zref"}
+{"question": "When is priority treatment applied in MPS? [3GPP Release 18]", "answer": "During the invocation and session establishment and until the MPS session is released"}
+{"question": "What type of link adaptation is performed in uplink transmission? [3GPP Release 17]", "answer": "All of the above"}
+{"question": "What is the formula to calculate the DL and UL max data rate supported by the UE? [3GPP Release 17]", "answer": "Rmax * maxNumberMIMO-LayersPDSCH * supportedModulationOrderDL * scalingFactor * symbolDuration * maxRBallocation * overhead"}
+{"question": "What procedures are involved in the modification of the Allowed NSSAI?", "answer": "UE Configuration Update and Registration"}
+{"question": "What are the three features specified in TS 23.304 for 5G ProSe Direct Communication over NR based PC5 reference point? [3GPP Release 17]", "answer": "Broadcast mode, Groupcast mode, Unicast mode"}
+{"question": "How does MulteFire compare to Wi-Fi in terms of manufacturing cost for chips?", "answer": "Wi-Fi chips are manufactured at low cost"}
+{"question": "What is the main purpose of mode 2 resource allocation in NR-V2X?", "answer": "To allocate resources autonomously by a UE based on a sensing procedure"}
+{"question": "What is the purpose of AKMA TLS protocol profiles? [3GPP Release 17]", "answer": "To provide secure TLS connections between the UE and an AF in the network"}
+{"question": "What is the purpose of the interworking gateway? [ETSI NFV Release 5]", "answer": "To enable interactions between SBA NFV-MANO and non-SBA NFV-MANO systems"}
+{"question": "What is the purpose of a DHCP Relay Agent? [TCP/IP]", "answer": "To convert broadcast messages into unicast messages"}
+{"question": "What is the sub-carrier spacing for uplink transmission? [3GPP Release 17]", "answer": "15 kHz"}
+{"question": "What is a characteristic of SCMA (sparse code multiple access) codebook design that limits its application in large-scale systems?", "answer": "Lack of scalability"}
+{"question": "What does MPS prioritize in the PS domain when the network does not support the requested service? [3GPP Release 18]", "answer": "Voice services only"}
+{"question": "What is the power saving gain range for the power saving schemes with UE adaptation to BWP switching? [3GPP Release 16]", "answer": "8.5% - 45%"}
+{"question": "What are the three main factors involved in the etiology of heat stroke? [IEEE C95.1]", "answer": "Elevated body temperature, metabolic acidosis, and hypoxia"}
+{"question": "What is the purpose of network exposure to the Edge Application Server (EAS)? [3GPP Release 18]", "answer": "To support low latency network exposure to local AF"}
+{"question": "What is the purpose of the manufacturer-assigned ID in NAS signalling? [3GPP Release 18]", "answer": "To pre-provision a set of capabilities"}
+{"question": "How can RF (radio frequency) interference between aerial and ground users be minimized in the 3GPP network?", "answer": "All of the above"}
+{"question": "What does reliability measure in positioning requests? [3GPP Release 17]", "answer": "Success rate of positioning requests"}
+{"question": "What additional information does the NWDAF collect for UPF load analytics? [3GPP Release 18]", "answer": "UE trajectory input data and MDT input data"}
+{"question": "Can multiple MDA instances be deployed? [3GPP Release 17]", "answer": "Yes, for both cross-domain and domain-specific MDA"}
+{"question": "What does NR Sidelink Relay enable? [3GPP Release 17]", "answer": "L2 and L3 based UE-to-Network relay"}
+{"question": "What determines the redundancy handling of a PDU Session in URLLC? [3GPP Release 18]", "answer": "The presence of PDU Session Pair ID and/or RSN in the PDU Session Establishment Request."}
+{"question": "Which 3GPP specification provides details for the protocols between BM-SC and MBMS-GW? [3GPP Release 14]", "answer": "TS 29.061"}
+{"question": "What is the purpose of ProSe Discovery? [3GPP Release 17]", "answer": "To identify ProSe-enabled UEs in proximity of each other."}
+{"question": "What is the purpose of the work item 5G_HYPOS? [3GPP Release 16]", "answer": "To specify functional requirements and KPIs for enhanced positioning services in 5G systems"}
+{"question": "What field in the TPA Request frame indicates the request/response transaction? [IEEE 802.11]", "answer": "Dialog Token"}
+{"question": "What main mechanism enables hosts to efficiently utilize different networks with Multipath TCP (Transmission Control Protocol)?", "answer": "Per-packet load balancing."}
+{"question": "What is the purpose of the Direct event notification method in the PCC rule? [3GPP Release 18]", "answer": "To indicate that both direct and PCF/SMF notifications are required"}
+{"question": "When can the UE trigger reporting of its RLM and BFD relaxation status? [3GPP Release 17]", "answer": "When the RLM and BFD relaxation status changes"}
+{"question": "What is one benefit of extending LTE in the 5-GHz unlicensed band compared to Wi-Fi?", "answer": "LTE offers better spectrum efficiency than Wi-Fi"}
+{"question": "What is the key functionality introduced for prioritization between overlapping uplink resources of one UE in the 5G Core network? [3GPP Release 16]", "answer": "Support for prioritization between overlapping uplink resources of one UE"}
+{"question": "In a nonbeacon-enabled PAN, what is the relationship between macNbPanEnhancedBeaconOrder and EBINBPAN? [IEEE 802.15.4]", "answer": "EBINBPAN = aBaseSlotDuration \u00d7 macNbPanEnhancedBeaconOrder"}
+{"question": "What is the purpose of multiple USIMs in a MUSIM UE? [3GPP Release 18]", "answer": "To improve system performance and user experiences"}
+{"question": "What is the purpose of the X2 interface in Dual Connectivity? [3GPP Release 17]", "answer": "To establish control plane signaling between eNBs"}
+{"question": "Which message does the gNB-DU respond with to the UE after receiving the RRCRelease message? [3GPP Release 17]", "answer": "UE CONTEXT RELEASE COMPLETE message"}
+{"question": "What does NFV-MANO stand for? [ETSI NFV Release 5]", "answer": "Network Function Virtualization-Management and Operations"}
+{"question": "What does the tdd-UL-DL-ConfigurationCommon provide? [3GPP Release 17]", "answer": "Reference SCS configuration"}
+{"question": "What message does the UE send to initiate the initial access procedure? [3GPP Release 17]", "answer": "RRCSetupRequest"}
+{"question": "What is the most straightforward method of implementing the guard time? [IEEE 802.11]", "answer": "Transmitting nothing during the guard time"}
+{"question": "What does ThreshBackhRateDLWLAN, Low represent? [3GPP Release 17]", "answer": "The backhaul available downlink bandwidth threshold for traffic steering from WLAN to E-UTRAN."}
+{"question": "What role does the Service & Computation Orchestrator play in secure communication?", "answer": "It chooses the most efficient computation method for secure communication"}
+{"question": "What is the purpose of UDC (User Data Convergence)? [3GPP Release 18]", "answer": "To separate the data from the application logic in the 3GPP system"}
+{"question": "What is the procedure for notifying a mobile station of an appropriate call-related event during the 'active' state? [3GPP Release 18]", "answer": "Sending a NOTIFY message to the mobile station"}
+{"question": "Which interface is used for communication between the HeNB and the Core Network? [3GPP Release 17]", "answer": "S1 interface"}
+{"question": "What is the ratio of pulse duration to the pulse period of a periodic pulse train called? [IEEE C95.1]", "answer": "Duty Factor"}
+{"question": "Which physical layer procedure is involved in cell search? [3GPP Release 17]", "answer": "Random access related procedures"}
+{"question": "What does the NWDAF provide to the NF in response to the Nnwdaf_AnalyticsInfo_Request or Nnwdaf_AnalyticsSubscription_Subscribe Request? [3GPP Release 18]", "answer": "Analytics for congestion"}
+{"question": "What is the purpose of passive scanning? [IEEE 802.11]", "answer": "To find BSSs in the area by listening to Beacon frames"}
+{"question": "Which channel carries the Master Information Block (MIB) for SL in NR-V2X?", "answer": "Physical Sidelink Broadcast Channel (PSBCH)"}
+{"question": "How many bits are there in an IP address? [TCP/IP]", "answer": "32 bits"}
+{"question": "What is the advantage of VLANs in terms of additional security? [IEEE 802.3]", "answer": "Devices can only communicate within the same VLAN"}
+{"question": "What is the relative increase in cable loss per meter from 43.5 GHz to 48.2 GHz? [3GPP Release 18]", "answer": "0.33 dB"}
+{"question": "Which function is responsible for NAS signalling security? [3GPP Release 17]", "answer": "NAS signalling security"}
+{"question": "Which alternative in PoE uses transformers with center tap on pins 1-2 and 3-6? [IEEE 802.3]", "answer": "Alternative A"}
+{"question": "What message does the UE respond with after receiving the RRCSetup message? [3GPP Release 17]", "answer": "SecurityModeComplete"}
+{"question": "What is the purpose of the 'Group Reporting Guard Time'? [3GPP Release 14]", "answer": "To indicate the time for which monitoring event reporting can be aggregated"}
+{"question": "Which identity is used for identification of cancellation in the uplink? [3GPP Release 17]", "answer": "CI-RNTI"}
+{"question": "What should a STA with multiple DMG antennas do within a CBAP? [IEEE 802.11]", "answer": "Use only one DMG antenna for frame transmission"}
+{"question": "What triggers a Probe Response from all 802.11 networks in the area? [IEEE 802.11]", "answer": "Broadcast SSID"}
+{"question": "Which protocol is used for exchanging files between different hosts? [TCP/IP]", "answer": "FTP"}
+{"question": "What are the considerations for closed-loop factory automation? [3GPP Release 17]", "answer": "All of the above"}

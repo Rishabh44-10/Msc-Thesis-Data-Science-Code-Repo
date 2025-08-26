@@ -1,0 +1,9 @@
+model,rag_mode,dataset,N,EM,F1,ROUGE_L,BLEU1,secs
+CentralFT,no_rag,ClientA_holdout,200,0.0000,0.1080,0.1015,0.0804,2130.52
+CentralFT,with_rag,ClientA_holdout,200,0.0050,0.1251,0.1241,0.0930,2266.76
+FederatedFT,no_rag,ClientA_holdout,200,0.0000,0.0922,0.0886,0.0711,2224.33
+FederatedFT,with_rag,ClientA_holdout,200,0.0000,0.1035,0.0976,0.0781,2429.14
+CentralFT,no_rag,ClientB_holdout,200,0.0000,0.1169,0.1131,0.0901,2127.65
+CentralFT,with_rag,ClientB_holdout,200,0.0000,0.1318,0.1289,0.1017,2247.01
+FederatedFT,no_rag,ClientB_holdout,200,0.0000,0.1139,0.1086,0.0877,2228.42
+FederatedFT,with_rag,ClientB_holdout,200,0.0000,0.1214,0.1194,0.0900,2416.29

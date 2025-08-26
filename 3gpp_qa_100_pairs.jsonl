@@ -1,0 +1,100 @@
+{"question": "What is the purpose of the NAS security context in 5G?", "answer": "The 5G NAS security context is created as the result of a primary authentication and key agreement procedure."}
+{"question": "Which key is used to derive KAMF in the 5G system?", "answer": "The key KAMF is derived from the anchor key KSEAF."}
+{"question": "What information does the 5G-GUTI contain?", "answer": "The 5G-GUTI comprises the GUAMI and the 5G-TMSI."}
+{"question": "What is the role of the SEAF in the 5G authentication procedure?", "answer": "The SEAF is responsible for initiating authentication and forwarding the authentication request to the AUSF."}
+{"question": "How is the KSEAF key derived in 5G?", "answer": "The KSEAF is derived from the anchor key obtained during authentication."}
+{"question": "What does the AMF do upon receiving a Registration Request from the UE?", "answer": "The AMF initiates authentication and security procedures upon receiving a Registration Request."}
+{"question": "Which identifier is used by the UE to conceal its permanent identity?", "answer": "The SUCI is used by the UE to conceal its permanent identity (SUPI)."}
+{"question": "What are the primary functions of the SMF in 5G?", "answer": "The SMF is responsible for session management, including PDU session establishment, modification, and release."}
+{"question": "What is the role of the UPF in 5G architecture?", "answer": "The UPF handles packet routing and forwarding, traffic usage reporting, and QoS handling."}
+{"question": "What does the UE send to initiate a PDU session?", "answer": "The UE sends a PDU Session Establishment Request to initiate a PDU session."}
+{"question": "What triggers the AMF to initiate mobility registration update?", "answer": "A change in tracking area triggers the AMF to initiate a mobility registration update."}
+{"question": "What type of ciphering algorithms are supported in 5G?", "answer": "5G supports 128-NEA0, 128-NEA1, 128-NEA2, and 128-NEA3 ciphering algorithms."}
+{"question": "What is the purpose of the 5G-AKA procedure?", "answer": "The 5G-AKA procedure provides mutual authentication between the UE and the network and establishes keying material."}
+{"question": "What is the default state of the UE after initial registration?", "answer": "The UE is in the Registered state after successful initial registration."}
+{"question": "What message does the UE send when it wants to deregister from the network?", "answer": "The UE sends a Deregistration Request message to the network."}
+{"question": "What is the function of the AUSF in 5G?", "answer": "The AUSF performs authentication based on authentication vectors received from the UDM."}
+{"question": "How is integrity protection applied in NAS signaling?", "answer": "Integrity protection is applied using NAS security algorithms negotiated during registration."}
+{"question": "What triggers the use of secondary authentication in 5G?", "answer": "Secondary authentication is triggered when required by the network for accessing external data networks."}
+{"question": "What is the GUAMI composed of?", "answer": "The GUAMI is composed of the PLMN ID and the AMF ID."}
+{"question": "What procedure does the UE follow to update its location in 5G?", "answer": "The UE performs a Registration procedure to update its location."}
+{"question": "What is the role of the UDM in the 5G core network?", "answer": "The UDM provides subscription data and supports authentication functions."}
+{"question": "What is the NAS message used to initiate a service request?", "answer": "The Service Request message is used by the UE to initiate a service request."}
+{"question": "Which state does the UE enter after successful authentication and security setup?", "answer": "The UE enters the Registered state."}
+{"question": "What is the purpose of the AMF ID?", "answer": "The AMF ID uniquely identifies the AMF within a PLMN."}
+{"question": "What triggers a network-initiated PDU session modification?", "answer": "A policy change or QoS update can trigger a network-initiated PDU session modification."}
+{"question": "Which timer governs the periodic registration update in 5G?", "answer": "The T3512 timer governs the periodic registration update."}
+{"question": "What does the UE use to initiate a deregistration procedure?", "answer": "The UE uses the Deregistration Request message to initiate the procedure."}
+{"question": "What are the main types of UE states in 5G NAS?", "answer": "The main UE states are Registered and Deregistered."}
+{"question": "How does the network authenticate the UE in 5G?", "answer": "The network uses the 5G-AKA procedure to authenticate the UE."}
+{"question": "What message is sent by the AMF to confirm registration acceptance?", "answer": "The AMF sends a Registration Accept message."}
+{"question": "What key is derived by the UE after authentication for NAS signaling?", "answer": "The KAMF key is derived for NAS signaling protection."}
+{"question": "What element identifies the UE's subscription profile in 5G?", "answer": "The SUPI identifies the UE's subscription profile."}
+{"question": "What happens if the UE fails authentication?", "answer": "If authentication fails, the AMF sends a Registration Reject message with cause code."}
+{"question": "What is the meaning of SMF in the 5GC?", "answer": "SMF stands for Session Management Function."}
+{"question": "What is the purpose of the Registration Reject message?", "answer": "It informs the UE that registration has been rejected, along with a cause value."}
+{"question": "Which key is used to derive the UP security keys in 5G?", "answer": "The KUPint and KUPenc are derived from the KAMF key."}
+{"question": "How does the network protect the confidentiality of NAS messages?", "answer": "NAS message confidentiality is ensured through ciphering using negotiated algorithms."}
+{"question": "When does the UE send a Service Request message?", "answer": "The UE sends a Service Request message when it needs to resume communication after IDLE mode."}
+{"question": "What is the function of the Registration Complete message?", "answer": "It indicates successful completion of the registration procedure from the UE side."}
+{"question": "What is a GUAMI used for?", "answer": "The GUAMI identifies the AMF that is serving the UE."}
+{"question": "What triggers a periodic registration update from the UE?", "answer": "Expiry of the T3512 timer triggers the periodic update."}
+{"question": "Which message starts the authentication process from the network?", "answer": "The Authentication Request message starts the process."}
+{"question": "What is the main role of the NRF in 5GC?", "answer": "The NRF supports service discovery and maintains NF profiles."}
+{"question": "What is contained in an Authentication Request message?", "answer": "It contains RAND, AUTN, and other authentication parameters."}
+{"question": "What does the UE respond with after receiving an Authentication Request?", "answer": "The UE responds with an Authentication Response."}
+{"question": "What does the AMF do after successful authentication?", "answer": "The AMF establishes a NAS security context."}
+{"question": "What happens after the NAS security context is set up?", "answer": "The AMF proceeds with the registration procedure."}
+{"question": "What type of message is the Authentication Result?", "answer": "It is sent by the AMF to indicate the result of authentication."}
+{"question": "What is the function of the NSSF in the 5G system?", "answer": "The NSSF selects network slices for the UE."}
+{"question": "What identifies the PDU session in 5G NAS?", "answer": "The PDU Session ID identifies the session."}
+{"question": "What key protects AS-level user plane traffic in 5G?", "answer": "The keys KUPint and KUPenc protect AS-level user plane traffic."}
+{"question": "What is the SUCI derived from?", "answer": "The SUCI is derived from the SUPI using public key encryption."}
+{"question": "What triggers the creation of a NAS security context?", "answer": "Successful authentication triggers its creation."}
+{"question": "What is the structure of the AMF ID?", "answer": "The AMF ID includes AMF Region ID, AMF Set ID, and AMF Pointer."}
+{"question": "What is the purpose of the PLMN ID?", "answer": "The PLMN ID identifies the mobile network operator."}
+{"question": "What is the default QoS profile in 5G called?", "answer": "The default QoS profile is called 5QI (5G QoS Identifier)."}
+{"question": "What kind of data does the UDM provide?", "answer": "The UDM provides subscription data and authentication vectors."}
+{"question": "What happens if the UE changes its tracking area?", "answer": "The UE initiates a mobility registration update."}
+{"question": "What is the difference between 5G-GUTI and SUPI?", "answer": "5G-GUTI is a temporary identifier, while SUPI is a permanent subscription identity."}
+{"question": "What does the UE send after receiving Registration Accept?", "answer": "The UE sends Registration Complete."}
+{"question": "What causes an integrity check failure in NAS signaling?", "answer": "A mismatch in integrity protection information causes failure."}
+{"question": "What is the UDR in the 5G system?", "answer": "The UDR is the Unified Data Repository for storing subscription and policy data."}
+{"question": "What is the function of the PCF?", "answer": "The PCF manages policy rules for QoS and session control."}
+{"question": "What are the AMF responsibilities during registration?", "answer": "The AMF handles authentication, NAS security, and registration acceptance."}
+{"question": "What determines the security algorithms used in 5G NAS?", "answer": "The UE and network negotiate security algorithms during registration."}
+{"question": "What is the SMF responsible for?", "answer": "The SMF manages PDU sessions and IP address allocation."}
+{"question": "What does the UE use to conceal its identity?", "answer": "The UE uses the SUCI to conceal its SUPI."}
+{"question": "When does the AMF send a Security Mode Command?", "answer": "It is sent after successful authentication to set up NAS security."}
+{"question": "What is the UPF responsible for?", "answer": "The UPF forwards user plane packets and enforces traffic rules."}
+{"question": "What does NEF stand for in 5GC?", "answer": "NEF stands for Network Exposure Function."}
+{"question": "What happens if the UE does not respond to authentication?", "answer": "The AMF considers the authentication as failed and rejects registration."}
+{"question": "What does the 5G-RG stand for?", "answer": "5G-RG stands for 5G Residential Gateway."}
+{"question": "What initiates a Security Mode Complete message?", "answer": "The UE sends it after successfully applying security algorithms."}
+{"question": "What are the main NAS procedures?", "answer": "Main NAS procedures include registration, authentication, and PDU session establishment."}
+{"question": "What message does the AMF send to indicate NAS security setup?", "answer": "The Security Mode Command message."}
+{"question": "What triggers the use of the Registration Update procedure?", "answer": "Change in tracking area or periodic update requirement."}
+{"question": "What determines if secondary authentication is needed?", "answer": "The network configuration and data network policies."}
+{"question": "What is the T3512 timer used for?", "answer": "It defines the periodic registration update interval."}
+{"question": "What identifiers does the GUAMI contain?", "answer": "It contains the PLMN ID and AMF ID."}
+{"question": "What is a PDU Session Release Request?", "answer": "It is sent by the UE to terminate a PDU session."}
+{"question": "What function does the AUSF perform?", "answer": "The AUSF validates the authentication response from the UE."}
+{"question": "What is the meaning of SUPI?", "answer": "SUPI stands for Subscription Permanent Identifier."}
+{"question": "What is the purpose of AM Policy Association?", "answer": "To bind policy control with the UE's registration context."}
+{"question": "What is the purpose of the Network Slice Selection Assistance Information (NSSAI)?", "answer": "he NSSAI assists the network in selecting a Network Slice Instance for the UE"}
+{"question": "How does the UE indicate its supported security algorithms to the network?", "answer": "The UE includes the UE security capability IE in the Registration Request message"}
+{"question": "What triggers a UE-triggered Service Request procedure?", "answer": "Uplink user data pending, response to paging, or NAS signaling pending"}
+{"question": "What is the role of the Nsmf_PDUSession service operation?", "answer": "It allows the AMF to request PDU session management from the SMF"}
+{"question": "How is the KgNB key derived in 5G?", "answer": "KgNB is derived from KAMF by the AMF using the FC algorithm with input S-NSSAI"}
+{"question": "What does the Registration type IE indicate in a Registration Request?", "answer": "It specifies whether registration is initial, mobility, periodic, or emergency"}
+{"question": "What is the purpose of the PDU Session Anchor (PSA) UPF?", "answer": "The PSA provides UE IP address preservation and session continuity"}
+{"question": "When does the AMF initiate a UE Configuration Update procedure?", "answer": "To update UE capabilities, LADN information, or network slicing configuration"}
+{"question": "What is the function of the Nudr service-based interface?", "answer": "Nudr allows UDM/PCF to access subscription/policy data from UDR"}
+{"question": "How does the network enforce slice-specific authentication?", "answer": "The AMF uses the S-NSSAI in the authentication request to trigger slice-specific credentials"}
+{"question": "What is the purpose of the Allowed NSSAI?", "answer": " It indicates the network slices permitted for the UE in the current registration area"}
+{"question": "What happens when the T3502 timer expires in the UE?", "answer": "The UE aborts the PDU session establishment procedure"}
+{"question": "What is the role of the Security Anchor Function (SEAF)?", "answer": "SEAF relays authentication messages between UE and AUSF and derives KSEAF"}
+{"question": "How is inter-PLMN handover secured in 5G?", "answer": "Source AMF provides KgNB* to target AMF using security context transfer"}
+{"question": "What does the Always-on PDU Session indication imply?", "answer": "The PDU session remains established even during UE idle mode"}
+{"question": "What is the purpose of the Nnrf_NFDiscovery service?", "answer": "It enables network functions to discover other NF instances via NRF"}
+{"question": "How does the UE handle multiple simultaneous network slices?", "answer": "Each slice uses separate PDU sessions with independent QoS flows"}
